@@ -1,4 +1,4 @@
-# Create scala fullstack project using Scala3, ScalaJs, Javascript
+# Create scala fullstack project using Scala3, Http4s, Javascript
 ## Building the project from scratch
 ________________
 ### Server
